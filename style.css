@@ -1,0 +1,108 @@
+
+body{
+    background-image:url('img/fundo.png');
+}
+
+.um{
+    font-size:60px;
+    color:ghostwhite;
+    text-align: center;
+}
+li{
+    margin-top: 1%;color: white;
+}
+
+.dois{font-size: 40px;
+    margin-left: 2%;
+    text-align: center;
+    color:ghostwhite;
+}
+.tres{
+    font-size: 20px;
+    color: ghostwhite;
+    padding-left: 20px;
+}
+.quatro{
+    text-align: center;
+    color:ghostwhite;border: solid 1px white;
+    font-size: larger;
+}
+.cinco{
+    text-align: center;
+    color:ghostwhite;border: solid 1px white;
+    font-size: larger;
+}
+.seis{
+    color: ghostwhite;
+    font-size: medium;
+    padding-left: 10px;
+}
+ p{
+    font-size: 30px;
+    font-style: italic;text-align: center;
+    color: white;padding: 5%;
+}
+.lista{
+    font-size: 20px;
+    margin-left: -1px;
+}
+.link{
+    font-size: large;
+    color: ghostwhite;
+    text-decoration: none;
+    padding-left: 46%;
+}
+ol{
+    color: ghostwhite; 
+}
+.titulo{
+    height: 1400px;
+}
+.ancora{
+    height: 1000px;
+}
+.cabeçalho{
+    height: 900px;
+}
+blockquote{
+    color:white;
+    text-align: center;
+    padding: 10%;
+    font-size: larger;
+}
+mark{
+    border-radius: 30%;
+    color:black;
+    background-color: white;
+}
+strong{
+    color: brown;
+}
+footer{
+    background-color:black;
+    height: 250px;
+    width: 100%;
+}
+
+a{
+    text-decoration:none;
+    font-size: medium;
+    color: white;
+ }
+small{
+    color: white;
+    text-align: center;
+     }
+.voltar{
+    margin-left: 49%;
+}
+b{
+    font-family: Arial, Helvetica, sans-serif;
+    color:bisque; 
+}
+
+     
+
+
+
+
